@@ -15,7 +15,7 @@ Shows the primary system components prior to assembly, including:
 - Motherboard
 - CPU
 - Graphics card
-- Supporting components
+
 
 Purpose:
 - Confirms component selection
