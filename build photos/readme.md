@@ -28,7 +28,7 @@ Purpose:
 
 <img src="./inside_desktop_view.jpg" alt="Internal Build View" width="600">
 
-Shows the internal layout of the assembled system with the side panel removed, including:
+Shows the internal layout of the assembled system with the side panel installed, including:
 - CPU cooler and pump placement
 - GPU installation and power delivery
 - Cable routing and airflow layout
